@@ -1,0 +1,6 @@
+{
+  "name": "VoyageHub - Multi-Modal Travel & Seat Availability Booking",
+  "description": "Discover live seat availability, compare prices, ratings, and schedules across trains, buses, flights, and intercity cars with integrated direct payment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
